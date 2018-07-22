@@ -1,0 +1,38 @@
+.footer-style {
+    height: inherit;
+    background-color: #333333;
+    width: 100%;
+
+}
+
+.footer-link-style {
+
+   font-size: 1.2rem;
+   color: #ffffff;
+   background-color: #333333;
+   text-decoration: none;
+   height: 10rem;
+   width: 100%;
+   text-align: center;
+
+}
+
+
+.flex-list {
+display: flex;
+justify-content: center;
+
+}
+
+.link-style-footer a {
+  color: #ffffff;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  font-size: 1.6rem;
+
+}
+
+.link-style-footer a:hover {
+  color: #777;
+  font-size: 1.6rem;
+}
