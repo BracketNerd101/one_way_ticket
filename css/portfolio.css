@@ -1,11 +1,11 @@
  body {
 
-min-height: 1800px;  
+min-height: 1800px;
 }
 
 
 .top-menu-bar{
-    
+
     width:100%;
     height:6rem;
     top:0;
@@ -15,22 +15,22 @@ min-height: 1800px;
 }
 
 #portfolio-display {
-    
+
     height: inherit;
     margin-bottom: 10rem;
-       
+
 }
 
 #bg {
-   
+
 /*
-  top: 0; 
+  top: 0;
   left: 0;
 */
   margin-left: auto;
     margin-right: auto;
     min-width: 100%;
-	
+
   /* Preserve aspet ratio */
 
   z-index: -3;
@@ -44,20 +44,20 @@ min-height: 1800px;
     width: 100%;
     height: auto;
     margin-top: 6rem;
-    
-    
-    
+
+
+
 }
 
 
 .first-port {
-    
+
     height: 45rem;
     width: 100%;
     background-size: cover;
 
-    
-    
+
+
 }
 
 
@@ -67,8 +67,8 @@ min-height: 1800px;
     margin-top: 5rem;
     margin-bottom: 4rem;
     z-index: 0;
-    
-    
+
+
 }
 
 
@@ -87,7 +87,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 
 .portfolio-5 {
@@ -97,7 +97,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 .portfolio-6 {
 
@@ -106,7 +106,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 .portfolio-7 {
 
@@ -115,7 +115,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 .portfolio-8 {
 
@@ -124,7 +124,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 .portfolio-9 {
 
@@ -133,7 +133,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 
 .portfolio-10 {
@@ -143,7 +143,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 .portfolio-11 {
 
@@ -152,7 +152,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 .portfolio-12 {
 
@@ -161,7 +161,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 
 .portfolio-13 {
@@ -171,7 +171,7 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 
 .portfolio-14 {
@@ -181,32 +181,32 @@ padding-top: 10rem;
     background-position: center center;
     background-repeat:  no-repeat;
 /*    background-attachment: fixed;*/
-    
+
 }
 
 .port-title {
-    
-    
+
+
     margin-top: 15rem;
     margin-bottom: 2rem;
     text-align: center;
     color:#4c4c4c;
     font-family: 'Fjalla One', sans-serif;
-    
+
 }
 
 .port-title-about {
-    
+
     margin-top:2rem;
     padding-top: 10rem;
     text-align: center;
     color:#4c4c4c;
     font-family: 'Fjalla One', sans-serif;
-    
+
 }
 
 .port-detail {
-    
+
     padding-right: 6rem;
     padding-left: 6rem;
     margin-bottom: 6rem;
@@ -216,7 +216,7 @@ padding-top: 10rem;
 }
 
 .port-detail-about {
-    
+
     padding-right: 6rem;
     padding-left: 6rem;
     margin-bottom: 0.2rem;
@@ -226,15 +226,15 @@ padding-top: 10rem;
 }
 
 .port-secondary  {
-    
-    
+
+
 }
 
 /*------- Other text styles here------------------*/
 
 
 .semi-bold{
-    
+
     color:#444;
     font-family: 'Fjalla One', sans-serif;
     font-size: 1rem;
@@ -245,28 +245,28 @@ padding-top: 10rem;
     font-family: 'Fjalla One', sans-serif;
     font-size: 1.2rem;
     padding-top: 2rem;
-     
+
 }
 
 .client {
-    
+
     margin-top:auto;
     font-size: 1.2rem;
     height: inherit;
-    
+
 }
 
-    
-    
-    
-    
-    
+
+
+
+
+
 /*MEdia Quireies Go Here ------------------------------------------------------------------------------------------------------------------------------------   */
-    
+
     /* Small only */
 @media screen and (max-width: 39.9375em) {
-    
-    
+
+
     .portfolio-2 {
 
 /*    background-image: url(../img/flower-small.png) !important; */
@@ -280,42 +280,42 @@ padding-top: 10rem;
 /*
     background-size: none;
     margin-top: 23rem;
-    height: inherit; 
+    height: inherit;
     width: inherit;
 */
-    
-    
+
+
 }
-    
+
     }
 
 /* Medium and up */
 @media screen and (min-width: 40em) {
-    
-    
-    
-    
+
+
+
+
     }
 
 /* Medium only */
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
-    
-    
-    
+
+
+
     }
 
 /* Large and up */
 @media screen and (min-width: 64em) {
-    
-    
-    
+
+
+
     }
 
 /* Large only */
 @media screen and (min-width: 64em) and (max-width: 74.9375em) {
-    
-    
-    
-    
-    
+
+
+
+
+
     }
