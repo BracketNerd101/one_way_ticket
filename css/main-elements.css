@@ -13,12 +13,13 @@ body {
 
 .top-menu-bar {
 
-    width:100%;
-    height:6rem;
-    top:0;
-    position:fixed;
-    margin-bottom:2rem;
+    width: 100%;
+    height: 6rem;
+    top: 0;
+    position: fixed;
+    margin-bottom: 2rem;
     background-color:rgba(250, 250, 250, 0.8);
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.2);
     z-index: 534;
 }
 
@@ -26,9 +27,9 @@ body {
 
     position: fixed;
     z-index: 10000;
-    top:1.5rem;
-    right:1rem;
-    color:limegreen;
+    top: 1.5rem;
+    right: 1rem;
+    color: limegreen;
     height: 50px;
     width: 90px;
 /*    border-radius: 50%;*/
@@ -55,6 +56,24 @@ body {
     padding-right: 1rem;
 
 
+}
+
+#style-Intro {
+
+padding-top: 15rem;
+padding-bottom: 15rem;
+
+}
+
+.intro_hero_text h3 {
+
+  font-family: 'Josefin Sans', sans-serif;
+  color: limegreen;
+}
+
+.portfolio_callout {
+
+  margin-top: 12rem;
 }
 
 
@@ -297,7 +316,7 @@ body {
 
 .footer-style {
     height: inherit;
-    background-color: #333333;
+    background-color: #FFFFFF;
     width: 100%;
 
 }
@@ -305,8 +324,8 @@ body {
 .footer-link-style {
 
    font-size: 1.2rem;
-   color: #ffffff;
-   background-color: #333333;
+   color: #333333;
+   background-color: #FFFFFF;
    text-decoration: none;
    height: 10rem;
    width: 100%;
@@ -322,7 +341,7 @@ justify-content: center;
 }
 
 .link-style-footer a {
-  color: #ffffff;
+  color: #333333;
   margin-top: 4rem;
   margin-bottom: 2rem;
   font-size: 1.6rem;

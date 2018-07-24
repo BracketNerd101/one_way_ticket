@@ -1,6 +1,6 @@
 .footer-style {
     height: inherit;
-    background-color: #333333;
+    background-color: #FFFFFF;
     width: 100%;
 
 }
@@ -8,8 +8,8 @@
 .footer-link-style {
 
    font-size: 1.2rem;
-   color: #ffffff;
-   background-color: #333333;
+   color: #333333;
+   background-color: #FFFFFF;
    text-decoration: none;
    height: 10rem;
    width: 100%;
@@ -25,7 +25,7 @@ justify-content: center;
 }
 
 .link-style-footer a {
-  color: #ffffff;
+  color: #333333;
   margin-top: 4rem;
   margin-bottom: 2rem;
   font-size: 1.6rem;
