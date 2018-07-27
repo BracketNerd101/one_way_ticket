@@ -151,7 +151,7 @@ padding-bottom: 15rem;
 
 .front-pres-2 {
 
-    background-image: url(../img/Welcome--Mock-Hi-Fi004.jpg);
+    background-image: url(../img/run-through-poster.png);
     background-size: cover;
 
 
@@ -195,6 +195,16 @@ padding-bottom: 15rem;
 
 
 }
+
+.front-pres-w {
+
+    background-image: url(../img/WelcomeMock-Hi-Fi004.jpg);
+    background-size: cover;
+
+
+}
+
+
 
 .front-pres-7 {
 
