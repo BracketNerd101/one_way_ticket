@@ -109,14 +109,9 @@ padding-bottom: 15rem;
 .front-pres-1 {
     /*background-image: url(../img/Jaxready-iPhone-Intropage.png);*/
     background-image: url(../img/fis_forum.jpg);
-
     background-size: cover;
 
-
-
 }
-
-
 
 .square-title {
 
@@ -130,7 +125,6 @@ padding-bottom: 15rem;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     position: absolute;
-
 
 }
 
@@ -199,6 +193,14 @@ padding-bottom: 15rem;
 .front-pres-w {
 
     background-image: url(../img/WelcomeMock-Hi-Fi004.jpg);
+    background-size: cover;
+
+
+}
+
+.front-pres-bank {
+
+    background-image: url(../img/bank_iphone_5.jpg);
     background-size: cover;
 
 
