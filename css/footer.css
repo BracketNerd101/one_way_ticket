@@ -1,0 +1,28 @@
+#footer-style {
+
+  height: inherit;
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+
+
+
+
+#footer-style .footer-container {
+
+margin-bottom: 1rem;
+/* margin-top: 4rem; */
+
+}
+
+
+#footer-style .footer-container li a {
+
+color: #333333;
+}
+
+#footer-style .footer-container li a:hover {
+
+color: #777777;
+}

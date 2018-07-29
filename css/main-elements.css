@@ -18,7 +18,7 @@ body {
     top: 0;
     position: fixed;
     margin-bottom: 2rem;
-    background-color:rgba(250, 250, 250, 0.8);
+    background-color:rgba(250, 250, 250, 0.9);
     box-shadow: 0 3px 15px rgba(0, 0, 0, 0.2);
     z-index: 534;
 }
@@ -84,14 +84,22 @@ padding-bottom: 15rem;
     margin-top: 6rem;
     margin-bottom: auto;
     font: none;
+    background-color: #000000;
 
 
 }
 
-.about_home_Intro {
+#About_Home_Intro {
 
-  padding-top: 15rem;
-  padding-bottom: 15rem;
+  background-color: #d2d2d2 !important;
+
+
+}
+
+#About_Home_Intro p {
+
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 
 
 }
@@ -334,7 +342,7 @@ padding-bottom: 15rem;
   background-color: inherit;
 }
 
-.footer-style {
+/* .footer-style {
     height: inherit;
     background-color: #FFFFFF;
     width: 100%;
@@ -371,4 +379,5 @@ justify-content: center;
 .link-style-footer a:hover {
   color: #777;
   font-size: 1.6rem;
-}
+  align-content: center;
+} */
