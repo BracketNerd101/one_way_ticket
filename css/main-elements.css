@@ -101,8 +101,18 @@ padding-bottom: 15rem;
 .front-pres {
 
 
-    height:30rem;
+    height: 30rem;
+    background-color: #ffffff;
+    opacity: 1;
 
+}
+
+.front-pres:hover {
+
+
+    height: 30rem;
+    background-color: #ffffff;
+    opacity: 0.8;
 
 }
 
