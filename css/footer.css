@@ -5,17 +5,12 @@
   margin-bottom: auto;
 
 }
-
-
-
-
 #footer-style .footer-container {
 
-margin-bottom: 1rem;
-/* margin-top: 4rem; */
+margin-top: 5rem;
+
 
 }
-
 
 #footer-style .footer-container li a {
 
@@ -23,6 +18,16 @@ color: #333333;
 }
 
 #footer-style .footer-container li a:hover {
+
+color: #777777;
+}
+
+#footer-style .footer_style_two li a {
+
+color: #333333 !important;
+}
+
+#footer-style .footer_style_two li a:hover {
 
 color: #777777;
 }
