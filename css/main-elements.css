@@ -91,26 +91,60 @@ padding-bottom: 15rem;
 
 #About_Home_Intro {
 
-  background-color: #d2d2d2 !important;
-
+  background-color: #F2f2f2 !important;
 
 }
 
 #About_Home_Intro p {
 
+  padding-top: auto;
+  padding-bottom: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #333333 !important;
+  color: limegreen;
+
+
+}
+
+#About_Home_Intro img {
+
+  padding-top: 4rem;
+  align-self: center;
+
+
+
+}
+
+#About_Home_Intro .title_intro_home {
+
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: auto;
+
+}
+
+#About_Home_Intro .intro-text {
+
+  padding-top: 3rem;
 
 
 }
 
 
-
 .front-pres {
 
 
-    height:30rem;
+    height: 30rem;
+    background-color: #ffffff;
+    opacity: 1;
 
+}
+
+.front-pres:hover {
+
+
+    height: 30rem;
+    background-color: #ffffff;
+    opacity: 0.8;
 
 }
 
