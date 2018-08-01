@@ -18,7 +18,7 @@ body {
     top: 0;
     position: fixed;
     margin-bottom: 2rem;
-    background-color:rgba(250, 250, 250, 0.9);
+    background-color: rgba(250, 250, 250, 0.9);
     box-shadow: 0 3px 15px rgba(0, 0, 0, 0.2);
     z-index: 534;
 }
@@ -91,7 +91,8 @@ padding-bottom: 15rem;
 
 #About_Home_Intro {
 
-  background-color: #F2f2f2 !important;
+  background-color: #FFFFFF !important;
+  padding-top: 4rem;
 
 }
 
@@ -115,18 +116,28 @@ padding-bottom: 15rem;
 
 }
 
-#About_Home_Intro .title_intro_home {
+#pre_about_home_intro .padding_intro_style{
 
-  padding-top: 5rem;
+padding-top: 9rem;
+
+}
+#pre_about_home_intro .title_intro_home {
+
+  padding-top: 9rem !important;
   padding-bottom: auto;
 
 }
 
 #About_Home_Intro .intro-text {
 
-  padding-top: 3rem;
+  padding-top: 13rem;
 
 
+}
+
+.empty_row_push {
+
+  margin-bottom: 1rem;
 }
 
 
@@ -157,7 +168,7 @@ padding-bottom: 15rem;
 
 .square-title {
 
-    color:white;
+    color: white;
     margin-top: 9rem;
     margin-bottom: auto;
     text-align: center;
