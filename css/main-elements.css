@@ -111,6 +111,7 @@ padding-bottom: 15rem;
 
   padding-top: 4rem;
   align-self: center;
+  width: 26rem;
 
 
 
@@ -123,14 +124,14 @@ padding-top: 9rem;
 }
 #pre_about_home_intro .title_intro_home {
 
-  padding-top: 9rem !important;
+  padding-top: 5rem !important;
   padding-bottom: auto;
 
 }
 
 #About_Home_Intro .intro-text {
 
-  padding-top: 13rem;
+  padding-top: 8rem;
 
 
 }
