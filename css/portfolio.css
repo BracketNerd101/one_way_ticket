@@ -4,6 +4,10 @@ min-height: 1800px;
 
 }
 
+
+
+/*font-family: 'Josefin Sans', sans-serif;*/
+
 .top-menu-bar{
 
     width:100%;
@@ -177,11 +181,11 @@ padding-top: 10rem;
 .port-title {
 
 
-    margin-top: 8rem;
+    margin-top: 10rem;
     margin-bottom: 2rem;
     text-align: center;
     color: #4c4c4c;
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
 
 }
 
@@ -191,17 +195,18 @@ padding-top: 10rem;
     padding-top: 10rem;
     text-align: center;
     color:#4c4c4c;
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
 
 }
 
 .port-detail {
 
-    padding-right: 6rem;
-    padding-left: 6rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
     margin-bottom: 6rem;
     margin-top: 8rem;
     height: inherit;
+    font-family: 'Josefin Sans', sans-serif;
 
 }
 
