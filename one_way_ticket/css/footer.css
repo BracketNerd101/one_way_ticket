@@ -1,0 +1,34 @@
+#footer-style {
+
+  height: inherit;
+  margin-top: auto;
+  margin-bottom: 4rem;
+
+}
+
+#footer-style .footer-container {
+
+margin-top: 5rem;
+
+
+}
+
+#footer-style .footer-container li a {
+
+color: #333333;
+}
+
+#footer-style .footer-container li a:hover {
+
+color: #777777;
+}
+
+#footer-style .footer_style_two li a {
+
+color: #333333 !important;
+}
+
+#footer-style .footer_style_two li a:hover {
+
+color: #777777;
+}
