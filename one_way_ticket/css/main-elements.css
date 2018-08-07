@@ -37,16 +37,15 @@ body {
     text-align: center;
 /*    background-color: #ffffff;*/
 
-
 }
 
 #logo-location a h5 {
 
     position: fixed;
     z-index: 10000;
-    top:-30px;
-    left:5px;
-    color:limegreen;
+    top: -30px;
+    left: 5px;
+    color: limegreen;
     height: inherit;
     width: inherit;
     font-family: 'Josefin Sans', sans-serif;
@@ -132,6 +131,13 @@ padding-top: 9rem;
 #About_Home_Intro .intro-text {
 
   padding-top: 8rem;
+
+}
+
+.intro_text_index {
+
+  font-family: 'Josefin Sans', sans-serif;
+  color: limegreen;
 
 
 }
