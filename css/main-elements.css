@@ -153,6 +153,26 @@ padding-top: 9rem;
   margin-bottom: 1rem;
 }
 
+.front-pres-start {
+
+
+    height: 34rem;
+    background-color: #ffffff;
+    opacity: 1;
+
+}
+
+.front-pres-start:hover {
+
+
+    height: 34rem;
+    background-color: #ffffff;
+    opacity: 0.8;
+
+}
+
+
+
 
 .front-pres {
 
@@ -196,7 +216,7 @@ padding-top: 9rem;
 
 .square-title:hover {
 
-    color:white;
+    color: white;
     margin-top: 9rem;
     margin-bottom: auto;
     text-align: center;
@@ -207,7 +227,16 @@ padding-top: 9rem;
 
 }
 
+.front-pres-99 {
 
+    /* background-image: url(../img/bp_mobile.jpg); */
+    background-image: url(../img/fb_mobile_yellow.jpg);
+    background-size: cover;
+
+
+
+
+}
 
 .front-pres-2 {
 
