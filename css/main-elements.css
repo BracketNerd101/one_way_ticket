@@ -227,7 +227,8 @@ padding-top: 9rem;
 .front-pres-99 {
 
     /* background-image: url(../img/bp_mobile.jpg); */
-    background-image: url(../img/fb_mobile_yellow.jpg);
+    /* background-image: url(../img/fb_mobile_yellow.jpg); */
+    background-image: url(../img/mobile_small_custom.png);
     background-size: cover;
 
 
@@ -292,7 +293,7 @@ padding-top: 9rem;
 
 .front-pres-bank {
 
-    background-image: url(../img/bank_iphone_5.jpg);
+    background-image: url(../img/bank_iphone_sign_up.jpg);
     background-size: cover;
 
 
