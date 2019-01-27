@@ -74,6 +74,7 @@ min-height: 100px;
 .portfolio-3 {
 
 padding-top: 10rem;
+width: 100%;
 
 }
 
@@ -316,4 +317,27 @@ padding-top: 10rem;
 .about_btn {
 
   font-family: 'Josefin Sans', sans-serif !important;
+}
+
+.padding_gallery_top {
+
+  padding-top: 15rem;
+}
+
+
+.about_parallax {
+
+
+  /* The image used */
+  background-image: url("../img/use_your_illusion_large.png");
+  /* Set a specific height */
+  height: 35rem;
+  /* width: 100%; */
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+
 }
