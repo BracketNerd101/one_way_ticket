@@ -35,7 +35,15 @@ min-height: 100px;
   background-size: cover;
 }
 
+.world_bank_link_style {
 
+  color: #ff6666;
+}
+
+.world_bank_link_style:hover {
+
+  color: #000000;
+}
 
 
 .portfolio-1 {
