@@ -248,7 +248,7 @@ padding-top: 10rem;
 
 .client {
 
-    margin-top:auto;
+    margin-top: auto;
     font-size: 1.2rem;
     height: inherit;
 
@@ -312,3 +312,8 @@ padding-top: 10rem;
 
 
     }
+
+.about_btn {
+
+  font-family: 'Josefin Sans', sans-serif !important;
+}
