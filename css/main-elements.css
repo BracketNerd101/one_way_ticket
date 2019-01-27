@@ -22,6 +22,22 @@ body {
     z-index: 534;
 }
 
+.parallax {
+
+  /* The image used */
+  background-image: url("../img/Desktop004@2x.png");
+
+  /* Set a specific height */
+  min-height: 40rem;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
 #menu-location {
 
     position: fixed;
@@ -66,19 +82,21 @@ body {
 #style-Intro {
 
 padding-top: 15rem;
-padding-bottom: 15rem;
+padding-bottom: auto;
 
 }
 
 .intro_hero_text h3 {
 
   font-family: 'Josefin Sans', sans-serif;
-  color: limegreen;
+  /* color: limegreen; */
+  color: #ffffff;
 }
 
 .portfolio_callout {
 
   margin-top: 12rem;
+  color: #ffffff;
 }
 
 
@@ -86,7 +104,7 @@ padding-bottom: 15rem;
 
     width: 100%;
     height: inherit;
-    margin-top: 6rem;
+    margin-top: auto;
     margin-bottom: auto;
     font: none;
     background-color: #000000;
