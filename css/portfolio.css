@@ -324,22 +324,48 @@ width: 100%;
   padding-top: 15rem;
 }
 
+.triple_about {
+
+  height: 22rem;
+  overflow-y: hidden;
+}
+
+.image-cropper {
+    max-width: 35rem;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.rounded {
+    display: block;
+    margin: 0 auto;
+    height: 25rem;
+    width: 25rem;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    background: url("../img/ace_bw.jpg") center no-repeat;
+    background-size: cover;
+}
 
 .about_parallax {
 
 
   /* The image used */
-  background-image: url("../img/use_your_illusion_large.png");
+  background-image: url("../img/ace_camera.jpg");
   /* Set a specific height */
   height: 35rem;
-  padding-top: 5rem;
+  margin-top: 5rem;
   margin-bottom: 5rem;
   /* width: 100%; */
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
-  /* background-repeat: no-repeat; */
-  /* background-size: cover; */
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
