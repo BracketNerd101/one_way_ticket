@@ -21,6 +21,13 @@ body {
     z-index: 534;
 }
 
+.intro_scroll_class {
+
+  color: #ffffff;
+  margin-top: 5rem;
+
+}
+
 .parallax {
 
   /* The image used */
