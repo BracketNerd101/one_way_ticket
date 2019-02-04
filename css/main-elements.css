@@ -99,11 +99,11 @@ padding-bottom: auto;
   color: #ffffff;
 }
 
-.portfolio_callout
+/* .portfolio_callout{
 
   margin-top: 12rem;
   color: #ffffff;
-}
+} */
 
 
 #full-display {
@@ -162,6 +162,11 @@ padding-top: 9rem;
 
   padding-top: 8rem;
 
+}
+
+.about_intro_text {
+
+  margin-top: 3.5rem;
 }
 
 .intro_text_index {
