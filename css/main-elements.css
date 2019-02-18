@@ -336,10 +336,58 @@ padding-top: 9rem;
 
 }
 
+/* .full_display_text {
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4rem;
+    /* font: bolder 12vw "Alfa Slab One"; /
+    margin: 0;
+    text-align: center;
+    border: 1rem solid;
+    opacity: 0;
+
+}
+
+.full_display_text:hover {
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4rem;
+    /* font: bolder 12vw "Alfa Slab One";
+    margin: 0;
+    text-align: center;
+    border: 1rem solid;
+    opacity: 1;
+
+}
+
+.flex_display {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+
+.screen {
+    /* color: black;
+    width: 25rem;
+    mix-blend-mode: screen;
+    background: rgba(250, 250, 250, 0.9);
+
+    color: white;
+    width: 20rem;
+    mix-blend-mode: darken;
+    background-color: rgba(0,0,0, 0.3);
+
+}
+*/
+
 
 .front-pres-7 {
 
-    background-image: url(../img/Allison.jpg);
+    background-image: url(../img/mother_painting.jpg);
     background-size: cover;
 
 }
